@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xds8PxQFLBKVCrZ7RkSz3JlgXg27SrCJzBm2hiWzLXU=",
+  "Source": "cSharpGregsList",
+  "BasePath": "_content/cSharpGregsList",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
